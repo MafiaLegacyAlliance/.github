@@ -12,10 +12,9 @@
 
 ## 🕵️ Resources
 
-- [![Discover Guides](https://img.shields.io/badge/Discover_Guides-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/MafiaLegacyAlliance/.github)
-- [![Join Community](https://img.shields.io/badge/Join_Community-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/MafiaLegacyAlliance/MafiaOldCountry-Hub)
-
----
+<a href="https://github.com/MafiaLegacyAlliance/MafiaOldCountry-Hub" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 🔍 Keywords
 
